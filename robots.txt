@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://axonodes.fun/sitemap.xml
